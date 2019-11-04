@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1570331373873.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "3|34|68|0|\n69|49|89|0|\n90|22|102|0|\n103|40|132|26|\n",
+    "hash" : "0",
+    "id" : "5CB56E29",
+    "lastKnownWriteTime" : 1570336942,
+    "last_content_update" : 1570353079229,
+    "path" : "~/Documents/GitHub/hopwr/chapter_2.R",
+    "project_path" : "chapter_2.R",
+    "properties" : {
+        "cursorPosition" : "132,26",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
